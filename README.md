@@ -3,6 +3,24 @@
 <p align="center">Me chamo Jean Carlos, tenho 18 anos e sou de Guarulho São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Ung centro. Sou apaixonado por tecnologia e compartilho meu conhecimento com meus colegas fazendo networking, onde encontro e aprimoro meu conhecimento. 
 Não sou o melhor com nada, sou apenas uma pessoa com sede de aprender cada vez mais, e isso me ajuda a expandir meu conhecimento.<p>
 
+---
+<p align="left">
+   <a href="https://github.com/JeanCarlosAguiarPimentel">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/JeanCarlosAguiarPimentel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/JeanCarlosAguiarPimentel?tab=stars">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/JeanCarlosAguiarPimentel?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+</p>
+
 ###
 ---
 <p align="center"></p>
