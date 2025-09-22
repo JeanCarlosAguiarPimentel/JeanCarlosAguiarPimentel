@@ -97,11 +97,11 @@ Não sou o melhor com nada, sou apenas uma pessoa com sede de aprender cada vez 
 
 ###
 
-<img src=https://i.pinimg.com/1200x/c2/94/ba/c294bac3f087bc43afa7830b0dbfd4be.jpg>
+<img src="https://i.pinimg.com/1200x/c2/94/ba/c294bac3f087bc43afa7830b0dbfd4be.jpg" width="300" heright="500">
 
 ###
 ---
-<p align="center">✨sempre seja quem você realmente é, não corra com o tempo mas ande ao lado dele!✨</p>
+<p align="right">✨sempre seja quem você realmente é, não corra com o tempo mas ande ao lado dele!✨</p>
 
 ###
 ---
