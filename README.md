@@ -2,7 +2,7 @@
 
 <p align="center">Me chamo Jean Carlos, tenho 18 anos e sou de Guarulho São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Ung centro. Sou apaixonado por tecnologia e compartilho meu conhecimento com meus colegas fazendo networking, onde encontro e aprimoro meu conhecimento. 
 Estou em um momento de aprendizado na qual eu estou aprendendo e evoluindo constantemente, tenho como meta principal abrindo uma empresa focada em desenvolvimnto e automação com AI.<p>
----
+   
 <p align="left">
    <a href="https://github.com/JeanCarlosAguiarPimentel">
         <img 
