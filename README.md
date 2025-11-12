@@ -1,9 +1,10 @@
 <h2 align="center">Olá Sejam Bem Vindos!</h2>
 
 <p align="center">Me chamo Jean Carlos, tenho 18 anos e sou de Guarulho São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Ung centro. Sou apaixonado por tecnologia e compartilho meu conhecimento com meus colegas fazendo networking, onde encontro e aprimoro meu conhecimento. 
-Estou em um momento de aprendizado na qual eu estou aprendendo e evoluindo constantemente, tenho como meta principal abrindo uma empresa focada em desenvolvimnto e automação com AI.<p>
-   
-<p align="left">
+Não sou o melhor com nada, sou apenas uma pessoa com sede de aprender cada vez mais, e isso me ajuda a expandir meu conhecimento.<p>
+
+---
+<p align="center">
    <a href="https://github.com/JeanCarlosAguiarPimentel">
         <img 
             alt="Seguidores" 
@@ -26,46 +27,37 @@ Estou em um momento de aprendizado na qual eu estou aprendendo e evoluindo const
 
 ###
 
-<p align="left">🤖Linguagens que gosto de usar</p>
+<p align="center">🤖LINGUAGENS E FERRAMENTAS DE USO</p>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+<div align="center">
+  <img src="HTML.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img src="CSS.svg" height="30" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="JavaScript.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="Java-Dark.svg" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="Python-Dark.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img src="PHP-Dark.svg" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="Git.svg" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img src="Angular-Dark.svg" height="30" alt="github logo"  />
+  <img src="MySQL-Dark.svg" height="30" alt="github logo"  />
+  <img src="Docker.svg" height="30" alt="github logo"  />
+  <img src="MongoDB.svg" height="30" alt="github logo"  /> <img src="VueJS-Dark.svg" height="30" alt="github logo"  />  <img src="VSCode-Dark.svg" height="30" alt="github logo"  />
 </div>
 
-###
----
-<p align="left">🤖ferramentas que uso e tenho conhecimento</p>
 
 ###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  
 
 ###
 ---
-<p align="left">📊Estatísticas</p>
+<p align="center">📊ESTATÍSTICAS</p>
 
 ###
 
@@ -84,12 +76,16 @@ Estou em um momento de aprendizado na qual eu estou aprendendo e evoluindo const
 
 
 ###
-<p align="right">✨sempre seja quem você realmente é, não corra com o tempo mas ande ao lado dele!✨</p>
+
 <img src="https://i.pinimg.com/1200x/c2/94/ba/c294bac3f087bc43afa7830b0dbfd4be.jpg" width="300" heright="500">
 
 ###
 ---
-<div align="left">
+<p align="right">✨sempre seja quem você realmente é, não corra com o tempo mas ande ao lado dele!✨</p>
+
+###
+---
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
