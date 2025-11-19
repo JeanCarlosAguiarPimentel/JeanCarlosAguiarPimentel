@@ -32,12 +32,6 @@ Não sou o melhor com nada, sou apenas uma pessoa com sede de aprender cada vez 
 ###
 
 <div align="center">
-  <img src="HTML.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="CSS.svg" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="JavaScript.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
   <img src="Java-Dark.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="Python-Dark.svg" height="30" alt="python logo"  />
