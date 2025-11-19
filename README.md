@@ -32,15 +32,15 @@ Não sou o melhor com nada, sou apenas uma pessoa com sede de aprender cada vez 
 ###
 
 <div align="center">
+  
+  <img width="12" />
   <img src="Java-Dark.svg" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="Python-Dark.svg" height="30" alt="python logo"  />
+  <img src="Python-Dark.svg" height="30" alt="python logo">
   <img width="12" />
   <img src="PHP-Dark.svg" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="Git.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="Angular-Dark.svg" height="30" alt="github logo"  />
+  <img src="Angular-Dark.svg" height="30" alt="githu logo">
   <img src="MySQL-Dark.svg" height="30" alt="github logo"  />
   <img src="Docker.svg" height="30" alt="github logo"  />
   <img src="MongoDB.svg" height="30" alt="github logo"  /> <img src="VueJS-Dark.svg" height="30" alt="github logo"  />  <img src="VSCode-Dark.svg" height="30" alt="github logo"  />
