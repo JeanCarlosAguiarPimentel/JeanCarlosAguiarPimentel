@@ -1,7 +1,6 @@
 <h2 align="center">Olá Sejam Bem Vindos!</h2>
 
-<p align="center">Me chamo Jean Carlos, tenho 18 anos e sou de Guarulho São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Ung centro. Sou apaixonado por tecnologia e compartilho meu conhecimento com meus colegas fazendo networking, onde encontro e aprimoro meu conhecimento. 
-Não sou o melhor com nada, sou apenas uma pessoa com sede de aprender cada vez mais, e isso me ajuda a expandir meu conhecimento.<p>
+<p align="center"><p>
 
 ---
 <p align="center">
