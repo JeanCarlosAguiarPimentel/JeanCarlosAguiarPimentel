@@ -1,86 +1,73 @@
-<h2 align="center">Olá Sejam Bem Vindos!</h2>
+# 👋 Olá, eu sou Jean Carlos
 
-<p align="center"><p>
+🎯 **Desenvolvedor Júnior em Formação | Back-end / Full Stack Base**  
+💻 Programação • Banco de Dados • Infraestrutura  
+📚 Em certificação **CompTIA A+**
 
 ---
-<p align="center">
-   <a href="https://github.com/JeanCarlosAguiarPimentel">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/JeanCarlosAguiarPimentel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/JeanCarlosAguiarPimentel?tab=stars">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/JeanCarlosAguiarPimentel?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-</p>
 
-###
----
-<p align="center"></p>
+## 🚀 Sobre mim
+Sou desenvolvedor júnior em formação, com base sólida em **programação, banco de dados e sistemas**.  
+Possuo experiência prática na criação de **sites completos utilizando Vue.js** e foco em evolução para atuar com **Back-end e Dados**.
 
-###
+Busco oportunidades para aprender, crescer tecnicamente e contribuir com soluções reais.
 
-<p align="center">🤖LINGUAGENS E FERRAMENTAS DE USO</p>
-
-###
-
-<div align="center">
-  
-  <img width="12" />
-  <img src="Java-Dark.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="Python-Dark.svg" height="30" alt="python logo">
-  <img width="12" />
-  <img src="PHP-Dark.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="Angular-Dark.svg" height="30" alt="githu logo">
-  <img src="MySQL-Dark.svg" height="30" alt="github logo"  />
-  <img src="Docker.svg" height="30" alt="github logo"  />
-  <img src="MongoDB.svg" height="30" alt="github logo"  /> <img src="VueJS-Dark.svg" height="30" alt="github logo"  />  <img src="VSCode-Dark.svg" height="30" alt="github logo"  />
-</div>
-
-
-###
-
-###
----
-<p align="center">📊ESTATÍSTICAS</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeanCarlosAguiarPimentel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=pt-br&hide_border=false" height="200" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeanCarlosAguiarPimentel&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=onedark&hide_border=false" height="173" alt="languages graph"  />
-</div>
-
-###
 ---
 
-->cobra
+## 🧠 Tecnologias & Ferramentas
 
-###
+### 💻 Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=oracle&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 🌐 Front-end
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+
+### 🗄️ Banco de Dados
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat&logo=oracle&logoColor=white)
+
+### 🛠️ Ferramentas
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat&logo=diagrams.net&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
 ---
 
+## 📂 Projetos em Destaque
+- 🔹 **Sites com Vue.js**
+  - Componentes reutilizáveis
+  - Organização de rotas
+  - Layouts responsivos
 
-###
+- 🔹 **Back-end & Banco de Dados**
+  - CRUD básico
+  - Integração com MongoDB
+  - Estrutura MVC
 
-<img src="https://i.pinimg.com/1200x/c2/94/ba/c294bac3f087bc43afa7830b0dbfd4be.jpg" width="300" heright="500">
-<p align="right">✨sempre seja quem você realmente é, não corra com o tempo mas ande ao lado dele!✨</p>
+- 🔹 **Arquitetura & Modelagem**
+  - Diagramas de sistemas
+  - Modelagem de banco de dados
+  - Fluxos de aplicação (Draw.io)
 
-###
 ---
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
 
-###
+## 🎓 Certificações & Estudos
+- 🏗️ **CompTIA A+** – Em andamento  
+- 🐍 Python – Udemy (planejado)  
+- ☕ Java – Oracle (planejado)  
+- 🗄️ Banco de Dados – Oracle (planejado)
+
+---
+
+## 📈 Objetivo Profissional
+Atuar como **Desenvolvedor Júnior**, com foco em **Back-end**, evoluindo para áreas de **Dados e Sistemas**, sempre seguindo boas práticas e organização de código.
+
+---
+
+## 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+
