@@ -46,3 +46,8 @@ Busco oportunidades para aprender, crescer tecnicamente e contribuir com soluç�
 
 ## 📈 Objetivo Profissional
 Atuar como **Desenvolvedor Júnior**, com foco em **Back-end**, evoluindo para áreas de **Dados e Sistemas**, sempre seguindo boas práticas e organização de código.
+---
+
+## 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
