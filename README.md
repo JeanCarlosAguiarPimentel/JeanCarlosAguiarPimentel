@@ -1,16 +1,15 @@
 # 👋 Olá, eu sou Jean Carlos
 
-🎯 **Desenvolvedor Júnior em Formação | Back-end / Full Stack Base**  
-💻 Programação • Banco de Dados • Infraestrutura  
-📚 Em certificação **CompTIA A+**
-
 ---
 
 ## 🚀 Sobre mim
-Sou desenvolvedor júnior em formação, com base sólida em **programação, banco de dados e sistemas**.  
-Possuo experiência prática na criação de **sites completos utilizando Vue.js** e foco em evolução para atuar com **Back-end e Dados**.
+Sou desenvolvedor em aprendizado, atualmente no meu último ano no curso de Análise e Desenvolvimento de Sistemas. Tenho meus estudos à parte, que tenho como base para futuramente alcançar a minha área profissional, que seria Back-end | Fullstack.
 
-Busco oportunidades para aprender, crescer tecnicamente e contribuir com soluções reais.
+Eu também estudo de tudo um pouco, pois busco fazer alguns freelancers que, se tudo der certo, pretendo que virem uma nova empresa no mercado de tecnologia chamada FlowDev - Studio.
+
+Nos tempos livres, gosto de ler e aproveitar um tempo de qualidade com a família, a namorada e os amigos. Sempre buscando também resolver problemas e ajudar ao próximo com o que for ao meu alcance.
+
+Esse sou eu, o futuro Dev que ajudará sua empresa a alcançar níveis incríveis!!! :) 
 
 ---
 
@@ -23,7 +22,7 @@ Busco oportunidades para aprender, crescer tecnicamente e contribuir com soluç�
 
 ### 🌐 Front-end
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
-
+![Angular.js](https://img.shields.io/badge/Angular.js)
 ### 🗄️ Banco de Dados
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -31,21 +30,7 @@ Busco oportunidades para aprender, crescer tecnicamente e contribuir com soluç�
 ### 🛠️ Ferramentas
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat&logo=diagrams.net&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
----
-
-## 🎓 Certificações & Estudos
-- 🏗️ **CompTIA A+** – Em andamento  
-- 🐍 Python – Udemy (planejado)  
-- ☕ Java – Oracle (planejado)  
-- 🗄️ MySQL – Em formação
-
----
-
-## 📈 Objetivo Profissional
-Atuar como **Desenvolvedor Júnior**, com foco em **Back-end**, evoluindo para áreas de **Dados e Sistemas**, sempre seguindo boas práticas e organização de código.
 ---
 
 ## 🌐 Conecte-se comigo
