@@ -24,11 +24,11 @@ Atualmente estudando arquitetura backend, Docker e AWS.</p>
 </p>
 </div>
 
-## 🐍 Contribution Snake
+## 
+<p align="center">🐍 Contribution Snake<p>
 
-<p align="center">
-  <img src="https://github.com/JeanCarlosAguiarPimentel/JeanCarlosAguiarPimentel/blob/output/github-snake.svg" />
+![Snake animation](https://github.com/JeanCarlosAguiarPimentel/JeanCarlosAguiarPimentel/blob/output/github-snake-dark.svg)
 </p>
-###
+
 
 
