@@ -18,7 +18,7 @@ jobs:
         with:
           github_user_name: JeanCarlosAguiarPimentel
           outputs: |
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#00f5d4&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
