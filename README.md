@@ -17,9 +17,11 @@
 <div align="left">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,mysql,mongo,aws," />
+    <img src="https://skillicons.dev/icons?i=java,python,mysql,mongo,aws,docker,linux,spring,git,node.js,postman" />
   </a>
 </p>
 </div>
 
 ###
+![snake gif](https://github.com/JeanCarlosAguiarPimentel/JeanCarlosAguiarPimentel/blob/output/github-contribution-grid-snake.svg)
+
