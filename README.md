@@ -1,4 +1,4 @@
-<h1 align="left">👋 Olá, eu sou Jean Carlos</h1>
+<h1 align="center">👋 Olá, eu sou Jean Carlos</h1>
 
 ###
 
