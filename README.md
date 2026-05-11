@@ -13,7 +13,7 @@ Atualmente estudando arquitetura backend, Docker e AWS.</p>
 
 ###
 
-<h2 align="center">⚡ Stack Principais</h2>
+<h2 align="center">⚡ Stack Principais</h2> 
 
 ###
 
