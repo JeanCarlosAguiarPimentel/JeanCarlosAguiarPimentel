@@ -19,7 +19,7 @@ Atualmente estudando arquitetura backend, Docker e AWS.</p>
 <div align="left">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,mysql,mongo,aws,docker,linux,spring,git,Node,postman" />
+    <img src="https://skillicons.dev/icons?i=java,python,mysql,mongo,aws,docker,linux,spring,git,nodejs,postman" />
   </a>
 </p>
 </div>
